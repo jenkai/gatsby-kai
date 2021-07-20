@@ -1,10 +1,11 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: 測試
+date: "2020-05-01T22:12:03.284Z"
+description: "Hello World 2"
 ---
 
-This is my first post on my new fake blog! How exciting!
+測試這是一個普通的內文，賈伯斯。跟你說哈囉
+嗨嗨ㄏ
 
 I'm sure I'll write a lot more interesting things in the future.
 
